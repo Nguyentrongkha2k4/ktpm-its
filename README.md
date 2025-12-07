@@ -6,6 +6,7 @@
 
   ## 📁 Cấu trúc dự án
 
+```
 root/
 │── api-gateway/ # API Gateway (Spring Cloud Gateway)
 │── content-service/ # Service quản lý nội dung
@@ -15,7 +16,7 @@ root/
 │── docker-compose.yml # Chạy toàn bộ hệ thống bằng Docker
 │── pom.xml # Maven parent pom
 │── README.md # File mô tả dự án
-
+```
 yaml
 Copy code
 ---
