@@ -12,9 +12,6 @@ root/
 │── content-service/ # Service quản lý nội dung
 │── eureka/ # Eureka Service Discovery Server
 │── user-service/ # Service quản lý người dùng
-│
-│── docker-compose.yml # Chạy toàn bộ hệ thống bằng Docker
-│── pom.xml # Maven parent pom
 │── README.md # File mô tả dự án
 ```
 yaml
